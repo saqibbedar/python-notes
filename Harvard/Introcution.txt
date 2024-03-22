@@ -1,0 +1,19 @@
+## CS50's Introduction to programming with Python
+
+### Course outlines:
+
+- Introduction
+- Functions, Variables, Comments
+- Conditionals
+- Loops
+- Exceptions
+- Libraries
+- Unit Tests
+- File I/O
+- Regular Expressions
+- Object-Oriented-Programming
+- Et Cetera
+
+## Description
+
+This is a CS50 programming with Python course, and this includes all of my notes that I make during my the taking of this course.

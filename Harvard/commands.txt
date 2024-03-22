@@ -1,0 +1,14 @@
+## CLI - Command line interface
+
+ls: list -> all of files in your current folder
+cp: copy file 
+mv: move file or rename 
+rm: remove a file/delete
+mkdir: make directory
+cd: change directory
+rmdir: remove directory
+clear: clear the terminal
+
+cp: cp hello.py goodbye.py // copy hello.py and new file is goodbye.py
+mv: mv hello.py sayHello.py // rename to sayHello.py
+mv: mv sayHello.py .. // this will now move sayHello.py to parent folder
