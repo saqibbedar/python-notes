@@ -2,6 +2,7 @@ print("Welcome to my computer quiz!")
 
 playing = input("Do you want to play? ")
 
+# quit program if user has not say 'yes'
 if playing != "yes":
     quit()
 
