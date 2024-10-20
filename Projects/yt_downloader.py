@@ -12,7 +12,7 @@ print(f"Views: {yt.views}")
 yt_download = yt.streams.get_highest_resolution()
 
 # ask user for download path
-PATH = "/Users/Saqib Bedar/Downloads"
+PATH = "YOUR PATH"
 
 # download the video
 yt_download.download(PATH)
