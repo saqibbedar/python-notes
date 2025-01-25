@@ -68,7 +68,7 @@ class Student:
         print("Average: ", self.__avg())
         print("Status: ", "Pass" if self.__is_pass() else "Fail")
 
-# Inheritence
+# Inheritance
 class GraduateStudent(Student):
     def __init__(self, id, name, year_of_graduation, subjects, thesis_title):
         super().__init__(id, name, None, subjects) # pass None for semester
